@@ -34,4 +34,5 @@ TECNOLOGIAS UTILIZADAS
 
 
 CONCLUSÃO
+
 Este projeto combina tecnologia, acessibilidade e automação para entregar uma solução completa de gestão para pizzarias, facilitando o processo de pedidos e oferecendo uma integração completa com o WhatsApp, relatórios interativos e exportação para Excel.
