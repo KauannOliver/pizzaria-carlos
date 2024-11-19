@@ -1,35 +1,54 @@
-# Pizzeria Management System
+# **Pizzeria Management System**
 
-This project was developed to modernize the order management process at Carlos' Pizzeria, integrating solutions that make daily operations more efficient and accessible. The system allows the integration of orders via WhatsApp and phone calls, while also offering features that streamline workflows.
+This project was developed to enhance the order management process at Carlos' Pizzeria, integrating modern solutions to improve daily operations. The system supports orders through WhatsApp and phone calls while providing tools to streamline workflows and improve efficiency.
 
-**KEY FEATURES**
+---
 
-1. **WhatsApp Order Integration**  
-   The system enables direct order reception through WhatsApp. Using the wa.me link, it automates communication with Selenium, accessing a saved Mozilla session, ensuring faster and more efficient communication.
+## **KEY FEATURES**
 
-2. **Full CRUD for Clients, Pizzas, and Orders**  
-   The system provides complete CRUD (Create, Read, Update, Delete) capabilities for managing clients, pizzas, and orders. Built with the Flet framework, the front-end delivers a user-friendly, modern interface.
+### 1. **WhatsApp Order Integration**
+   - Directly receives orders through WhatsApp using the `wa.me` link.
+   - Automates communication with Selenium, leveraging a saved Mozilla session for fast and seamless interactions.
 
-3. **Power BI Reports**  
-   Interactive reports generated in Power BI offer a detailed view of the pizzeria's performance, including order and sales metrics.
+### 2. **Full CRUD for Clients, Pizzas, and Orders**
+   - Provides Create, Read, Update, and Delete (CRUD) capabilities for managing client information, pizza options, and orders.
+   - Built with the Flet framework, offering a modern and intuitive interface for easy management.
 
-4. **Excel Data Export**  
-   Data export is done using Pandas and Openpyxl libraries, allowing relevant information to be exported directly to Excel spreadsheets for further analysis.
+### 3. **Power BI Reports**
+   - Generates interactive reports in Power BI, offering insights into pizzeria performance metrics such as orders, sales, and customer trends.
 
-5. **Accessibility and Inclusion**  
-   Designed with accessibility in mind, the system is fully compatible with screen readers, making it usable for visually impaired users. Additionally, color optimizations ensure the interface is accessible for users with color blindness.
+### 4. **Excel Data Export**
+   - Utilizes Pandas and Openpyxl libraries for exporting data to Excel spreadsheets.
+   - Allows further analysis and record-keeping for operational and financial planning.
 
-6. **Receipt Generation**  
-   The system includes receipt generation for each completed order, simplifying transaction control and documentation.
+### 5. **Accessibility and Inclusion**
+   - Fully compatible with screen readers, making the system accessible to visually impaired users.
+   - Optimized colors ensure the interface is user-friendly for those with color blindness.
 
-**TECHNOLOGIES USED**
+### 6. **Receipt Generation**
+   - Automatically generates receipts for completed orders, simplifying documentation and providing a professional customer experience.
 
-1. **Flet**: Framework for front-end development.
-2. **Python**: Used for back-end development.
-3. **SQLite**: Lightweight, efficient database for data storage.
-4. **Pandas & Openpyxl**: For data export and manipulation in Excel.
-5. **Selenium**: For WhatsApp message automation, utilizing a saved Mozilla session.
+---
 
-**CONCLUSION**
+## **TECHNOLOGIES USED**
 
-This project combines technology, accessibility, and automation to deliver a complete management solution for pizzerias, facilitating the order process and offering full integration with WhatsApp, interactive reports, and data export to Excel.
+### 1. **Flet**
+   - Used for developing a responsive, user-friendly front-end interface.
+
+### 2. **Python**
+   - Powers the back-end with robust functionality and integration.
+
+### 3. **SQLite**
+   - A lightweight and efficient database for storing client, pizza, and order data.
+
+### 4. **Pandas & Openpyxl**
+   - For managing and exporting data in Excel format.
+
+### 5. **Selenium**
+   - Automates WhatsApp communication by accessing saved browser sessions.
+
+---
+
+## **CONCLUSION**
+
+The **Pizzeria Management System** is a comprehensive solution designed to modernize and automate pizzeria operations. From integrating WhatsApp orders and generating receipts to exporting data and creating detailed Power BI reports, this system enhances efficiency and customer satisfaction. Additionally, its accessibility features ensure inclusivity, making it a robust choice for pizzerias looking to embrace technology-driven management.
