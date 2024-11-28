@@ -1,4 +1,4 @@
-# **Pizzeria Management System**
+# **Pizzaria Management System**
 
 This project was developed to enhance the order management process at Carlos' Pizzeria, integrating modern solutions to improve daily operations. The system supports orders through WhatsApp and phone calls while providing tools to streamline workflows and improve efficiency.
 
