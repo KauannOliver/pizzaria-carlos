@@ -13,7 +13,7 @@ A desktop application for managing customers, menu items, and orders, with sprea
 
 ## Stack
 
-Python, Flet, SQLite, Pandas, OpenPyXL, Requests, and Selenium.
+Python, Flet, SQLite, Pandas, OpenPyXL, Requests, Selenium, and FPDF.
 
 ## Run locally
 

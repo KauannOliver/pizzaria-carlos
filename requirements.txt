@@ -3,3 +3,4 @@ pandas
 openpyxl
 requests
 selenium
+fpdf==1.7.2

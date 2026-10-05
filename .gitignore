@@ -20,3 +20,5 @@ notas/VBEJ8Z.pdf
 *.xlsx
 *.pdf
 rota_*.html
+*.pkl
+*.pickle
