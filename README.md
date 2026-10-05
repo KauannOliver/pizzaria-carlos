@@ -17,4 +17,4 @@ Python, Flet, SQLite, Pandas, OpenPyXL, Requests, and Selenium.
 
 ## Run locally
 
-Requires Python and the dependencies listed in `requirements.txt`. Run `pip install -r requirements.txt`, then `python main.py`. Use a clean local database for testing; never use the committed data file for a public demo.
+Requires Python and the dependencies listed in `requirements.txt`. Run `pip install -r requirements.txt`, then `python main.py`. The database tables are initialized locally by the application. Customer databases and receipts are excluded from this public edition; use synthetic records for demonstrations.

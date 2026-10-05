@@ -8,3 +8,15 @@ pizzaria.db
 notas/BL5HIA.pdf
 notas/SKPI5I.pdf
 notas/VBEJ8Z.pdf
+
+# Keep account settings and operational exports local
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xls
+*.xlsx
+*.pdf
+rota_*.html
